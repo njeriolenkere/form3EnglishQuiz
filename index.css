@@ -1,0 +1,44 @@
+body{
+	font-size: 15px;
+	color: black;
+	font-family: serif, Georgia, "Times New Roman";
+
+}
+
+p{
+font-family: serif, Georgia, "Times New Roman";
+}
+h4, h2{
+	font-family: sans-serif, "gill sans", Arial, Helvetica;
+}
+
+
+form{
+	overflow: visible;
+	max-width: 960px;
+	margin: 0 auto;
+}
+#header{
+background-color: #e0e0eb;
+padding: 10px;
+}
+
+#redbtn{
+	background-color: #ff0000;
+	color: white;
+	margin-left: 40px;
+	padding: 10px;
+}
+#redbtn:hover{
+background-color: #660000;
+}
+
+#greenbtn{
+background-color: #006600;
+color: white;
+padding: 10px;
+margin-left: 15px;
+}
+#greenbtn:hover{
+background-color: #003300;
+}
